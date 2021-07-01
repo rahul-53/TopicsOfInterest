@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TopicsOfInterest</string>
+    <string name="topic_text">What topic do you love the most?</string>
+    <string name="books_text">Books</string>
+    <string name="podcast_text">Podcast</string>
+    <string name="news_text">News</string>
+    <string name="business_text">Business</string>
+    <string name="entertainment_text">Entertainment</string>
+    <string name="sports_text">Sports</string>
+    <string name="technology_text">Technology</string>
+    <string name="pronunciation_text">Pronunciation</string>
+    <string name="grammar_text">Grammar</string>
+    <string name="health_text">Health</string>
+    <string name="continue_text">Continue</string>
+</resources>
